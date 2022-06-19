@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpDocumentorMarkdown\Test\Twig\Macro;
+namespace PhpDocumentorMarkdownTemplate\Test\Twig\Macro;
 
 class MacroTest extends MacroTestCase
 {

@@ -6,7 +6,7 @@ Pizza sauce class.
 
 
 
-* Full name: `\PhpDocumentorMarkdown\Example\Pizza\Sauce`
+* Full name: `\PhpDocumentorMarkdownTemplate\Example\Pizza\Sauce`
 
 
 

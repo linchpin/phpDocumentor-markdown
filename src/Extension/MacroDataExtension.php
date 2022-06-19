@@ -1,8 +1,8 @@
 <?php
 
-namespace PhpDocumentorMarkdown\Extension;
+namespace PhpDocumentorMarkdownTemplate\Extension;
 
-use PhpDocumentorMarkdown\Test\Twig\Macro\MacroData;
+use PhpDocumentorMarkdownTemplate\Test\Twig\Macro\MacroData;
 use Twig\Error\RuntimeError;
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;

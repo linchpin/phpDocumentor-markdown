@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpDocumentorMarkdown\Extension;
+namespace PhpDocumentorMarkdownTemplate\Extension;
 
 use Twig\Error\RuntimeError;
 use Twig\Extension\AbstractExtension;

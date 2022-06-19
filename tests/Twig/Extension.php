@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpDocumentorMarkdown\Test\Twig;
+namespace PhpDocumentorMarkdownTemplate\Test\Twig;
 
 use PHPUnit\Runner\BeforeFirstTestHook;
 

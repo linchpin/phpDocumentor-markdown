@@ -3,12 +3,12 @@
   "description": "Markdown template for phpDocumentor3 based on Saggre/phpDocumentor-markdown",
   "authors": [
     {
-      "name": "Saggre",
-      "email": "sakri.koskimies@hotmail.com"
-    },
-    {
       "name": "Aaron Ware",
       "email": "aaron@linchpin.com"
+    },
+    {
+      "name": "Saggre",
+      "email": "sakri.koskimies@hotmail.com"
     }
   ],
   "version": "0.1.4",
@@ -28,12 +28,12 @@
   },
   "autoload": {
     "psr-4": {
-      "PhpDocumentorMarkdown\\": "src/"
+      "PhpDocumentorMarkdownTemplate\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "PhpDocumentorMarkdown\\Test\\": "tests/"
+      "PhpDocumentorMarkdownTemplate\\Test\\": "tests/"
     }
   },
   "scripts": {

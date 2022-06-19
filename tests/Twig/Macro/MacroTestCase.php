@@ -1,11 +1,11 @@
 <?php
 
-namespace PhpDocumentorMarkdown\Test\Twig\Macro;
+namespace PhpDocumentorMarkdownTemplate\Test\Twig\Macro;
 
-use PhpDocumentorMarkdown\Extension\JsonExtension;
-use PhpDocumentorMarkdown\Extension\MacroDataExtension;
-use PhpDocumentorMarkdown\Extension\ObjectExtension;
-use PhpDocumentorMarkdown\Test\Twig\TestCase;
+use PhpDocumentorMarkdownTemplate\Extension\JsonExtension;
+use PhpDocumentorMarkdownTemplate\Extension\MacroDataExtension;
+use PhpDocumentorMarkdownTemplate\Extension\ObjectExtension;
+use PhpDocumentorMarkdownTemplate\Test\Twig\TestCase;
 use Twig\Environment;
 use Twig\Error\LoaderError;
 use Twig\Error\RuntimeError;

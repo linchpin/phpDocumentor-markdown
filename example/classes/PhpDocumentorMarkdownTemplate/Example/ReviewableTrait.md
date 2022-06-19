@@ -6,7 +6,7 @@ A trait for reviewable objects.
 
 
 
-* Full name: `\PhpDocumentorMarkdown\Example\ReviewableTrait`
+* Full name: `\PhpDocumentorMarkdownTemplate\Example\ReviewableTrait`
 
 
 

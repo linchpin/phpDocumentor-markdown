@@ -6,10 +6,10 @@ A pizza.
 
 
 
-* Full name: `\PhpDocumentorMarkdown\Example\Pizza`
-* Parent class: [`\PhpDocumentorMarkdown\Example\AbstractProduct`](./AbstractProduct.md)
+* Full name: `\PhpDocumentorMarkdownTemplate\Example\Pizza`
+* Parent class: [`\PhpDocumentorMarkdownTemplate\Example\AbstractProduct`](./AbstractProduct.md)
 * This class implements:
-[`\PhpDocumentorMarkdown\Example\ProductInterface`](./ProductInterface.md), [`\JsonSerializable`](../../JsonSerializable.md)
+[`\PhpDocumentorMarkdownTemplate\Example\ProductInterface`](./ProductInterface.md), [`\JsonSerializable`](../../JsonSerializable.md)
 
 
 
@@ -51,7 +51,7 @@ protected float $price
 Pizza base.
 
 ```php
-protected ?\PhpDocumentorMarkdown\Example\Pizza\Base $base
+protected ?\PhpDocumentorMarkdownTemplate\Example\Pizza\Base $base
 ```
 
 
@@ -69,7 +69,7 @@ protected ?\PhpDocumentorMarkdown\Example\Pizza\Base $base
 
 
 ```php
-public __construct(string $name, float $price, \PhpDocumentorMarkdown\Example\Pizza\Base|null $base = null): mixed
+public __construct(string $name, float $price, \PhpDocumentorMarkdownTemplate\Example\Pizza\Base|null $base = null): mixed
 ```
 
 
@@ -85,7 +85,7 @@ public __construct(string $name, float $price, \PhpDocumentorMarkdown\Example\Pi
 |-----------|------|-------------|
 | `$name` | **string** | Product name. |
 | `$price` | **float** | Product price. |
-| `$base` | **\PhpDocumentorMarkdown\Example\Pizza\Base&#124;null** | Pizza base. |
+| `$base` | **\PhpDocumentorMarkdownTemplate\Example\Pizza\Base&#124;null** | Pizza base. |
 
 
 

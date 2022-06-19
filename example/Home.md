@@ -11,21 +11,21 @@ This is an automatically generated documentation for **Pizza Place (Example docu
 ## Namespaces
 
 
-### \PhpDocumentorMarkdown\Example
+### \PhpDocumentorMarkdownTemplate\Example
 
 #### Classes
 
 | Class | Description |
 |-------|-------------|
-| [`AbstractProduct`](./classes/PhpDocumentorMarkdown/Example/AbstractProduct.md) | Base class for all products.|
-| [`Pizza`](./classes/PhpDocumentorMarkdown/Example/Pizza.md) | A pizza.|
+| [`AbstractProduct`](./classes/PhpDocumentorMarkdownTemplate/Example/AbstractProduct.md) | Base class for all products.|
+| [`Pizza`](./classes/PhpDocumentorMarkdownTemplate/Example/Pizza.md) | A pizza.|
 
 
 #### Traits
 
 | Trait | Description |
 |-------|-------------|
-| [`ReviewableTrait`](./classes/PhpDocumentorMarkdown/Example/ReviewableTrait.md) | A trait for reviewable objects.|
+| [`ReviewableTrait`](./classes/PhpDocumentorMarkdownTemplate/Example/ReviewableTrait.md) | A trait for reviewable objects.|
 
 
 
@@ -33,18 +33,18 @@ This is an automatically generated documentation for **Pizza Place (Example docu
 
 | Interface | Description |
 |-----------|-------------|
-| [`ProductInterface`](./classes/PhpDocumentorMarkdown/Example/ProductInterface.md) | Interface for a product.|
+| [`ProductInterface`](./classes/PhpDocumentorMarkdownTemplate/Example/ProductInterface.md) | Interface for a product.|
 
 
 
-### \PhpDocumentorMarkdown\Example\Pizza
+### \PhpDocumentorMarkdownTemplate\Example\Pizza
 
 #### Classes
 
 | Class | Description |
 |-------|-------------|
-| [`Base`](./classes/PhpDocumentorMarkdown/Example/Pizza/Base.md) | Represents a pizza base.|
-| [`Sauce`](./classes/PhpDocumentorMarkdown/Example/Pizza/Sauce.md) | Pizza sauce class.|
+| [`Base`](./classes/PhpDocumentorMarkdownTemplate/Example/Pizza/Base.md) | Represents a pizza base.|
+| [`Sauce`](./classes/PhpDocumentorMarkdownTemplate/Example/Pizza/Sauce.md) | Pizza sauce class.|
 
 
 

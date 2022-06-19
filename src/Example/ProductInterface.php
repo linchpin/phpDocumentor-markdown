@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpDocumentorMarkdown\Example;
+namespace PhpDocumentorMarkdownTemplate\Example;
 
 /**
  * Interface for a product.

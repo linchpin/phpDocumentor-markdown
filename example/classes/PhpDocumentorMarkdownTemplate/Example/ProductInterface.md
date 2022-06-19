@@ -6,7 +6,7 @@ Interface for a product.
 
 
 
-* Full name: `\PhpDocumentorMarkdown\Example\ProductInterface`
+* Full name: `\PhpDocumentorMarkdownTemplate\Example\ProductInterface`
 
 
 

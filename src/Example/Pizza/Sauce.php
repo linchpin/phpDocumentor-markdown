@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpDocumentorMarkdown\Example\Pizza;
+namespace PhpDocumentorMarkdownTemplate\Example\Pizza;
 
 /**
  * Pizza sauce class.

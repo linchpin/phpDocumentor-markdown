@@ -1,9 +1,9 @@
 <?php
 
-namespace PhpDocumentorMarkdown\Example;
+namespace PhpDocumentorMarkdownTemplate\Example;
 
 use JsonSerializable;
-use PhpDocumentorMarkdown\Example\Pizza\Base;
+use PhpDocumentorMarkdownTemplate\Example\Pizza\Base;
 
 /**
  * A pizza.

@@ -6,7 +6,7 @@ Represents a pizza base.
 
 
 
-* Full name: `\PhpDocumentorMarkdown\Example\Pizza\Base`
+* Full name: `\PhpDocumentorMarkdownTemplate\Example\Pizza\Base`
 
 
 ## Constants
@@ -25,7 +25,7 @@ Represents a pizza base.
 The sauce used.
 
 ```php
-protected \PhpDocumentorMarkdown\Example\Pizza\Sauce $sauce
+protected \PhpDocumentorMarkdownTemplate\Example\Pizza\Sauce $sauce
 ```
 
 
@@ -58,7 +58,7 @@ protected int $yeast
 
 
 ```php
-public __construct(\PhpDocumentorMarkdown\Example\Pizza\Sauce $sauce, int $yeast = self::YEAST_SOURDOUGH_STARTER): mixed
+public __construct(\PhpDocumentorMarkdownTemplate\Example\Pizza\Sauce $sauce, int $yeast = self::YEAST_SOURDOUGH_STARTER): mixed
 ```
 
 
@@ -72,7 +72,7 @@ public __construct(\PhpDocumentorMarkdown\Example\Pizza\Sauce $sauce, int $yeast
 
 | Parameter | Type | Description |
 |-----------|------|-------------|
-| `$sauce` | **\PhpDocumentorMarkdown\Example\Pizza\Sauce** |  |
+| `$sauce` | **\PhpDocumentorMarkdownTemplate\Example\Pizza\Sauce** |  |
 | `$yeast` | **int** |  |
 
 
@@ -85,7 +85,7 @@ public __construct(\PhpDocumentorMarkdown\Example\Pizza\Sauce $sauce, int $yeast
 
 
 ```php
-public getSauce(): \PhpDocumentorMarkdown\Example\Pizza\Sauce
+public getSauce(): \PhpDocumentorMarkdownTemplate\Example\Pizza\Sauce
 ```
 
 

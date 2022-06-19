@@ -1,13 +1,17 @@
 {
-  "name": "saggre/phpdocumentor-markdown",
-  "description": "Markdown template for phpDocumentor3",
+  "name": "linchpin/phpdocumentor-markdown-template",
+  "description": "Markdown template for phpDocumentor3 based on Saggre/phpDocumentor-markdown",
   "authors": [
     {
       "name": "Saggre",
       "email": "sakri.koskimies@hotmail.com"
     }
+    {
+      "name": "Aaron Ware",
+      "email": "aaron@linchpin.com"
+    },
   ],
-  "version": "0.1.3",
+  "version": "0.1.4",
   "type": "library",
   "keywords": [
     "phpdocumentor",

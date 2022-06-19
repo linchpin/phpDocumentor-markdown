@@ -48,7 +48,7 @@ Add a template element to your phpDocumentor XML config and run `phpDocumentor` 
 ```xml
 <phpdocumentor>
     <!-- Specify template element inside phpdocumentor -->
-    <template name="./vendor/saggre/phpdocumentor-markdown/themes/markdown"/>
+    <template name="./vendor/linchpin/phpdocumentor-markdown/themes/markdown"/>
 </phpdocumentor>
 ```
 You can also check out the [config file](./phpdoc.dist.xml) used for generating this repository's example documentation for a full example.
@@ -56,7 +56,7 @@ You can also check out the [config file](./phpdoc.dist.xml) used for generating 
 ## Running tests
 ```bash
 # Clone the repository
-git clone git@github.com:Saggre/phpDocumentor-markdown.git
+git clone git@github.com:linchpin/phpDocumentor-markdown.git
 
 # Go to the cloned repository
 cd phpDocumentor-markdown
@@ -77,9 +77,4 @@ composer run-tests
 - The test suite uses Twig extensions to test the Twig macro functionality.
 - Check [`\phpDocumentor\Descriptor\ProjectDescriptor`](https://github.com/phpDocumentor/phpDocumentor/blob/master/src/phpDocumentor/Descriptor/ProjectDescriptor.php) for data structure used to generate the documentation.
 
-## Inspired by:
-
-* [dmarkic/phpdoc3-template-md](https://github.com/dmarkic/phpdoc3-template-md)
-* [cvuorinen/phpdoc-markdown-public](https://github.com/cvuorinen/phpdoc-markdown-public)
-* [evert/phpdoc-md](https://github.com/evert/phpdoc-md)
-* [heimrichhannot/phpdoc-github-template](https://github.com/heimrichhannot/phpdoc-github-template)
+## Originally forked from : [Saggre/phpDocumentor-markdown](https://github.com/Saggre/phpDocumentor-markdown)
